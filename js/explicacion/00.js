@@ -22,11 +22,16 @@
 /* 
 1) git branch nombreRama (crear una rama)
 2) git checkout nombreRama (cambiar de rama)
-3) git push origin nombreRama (subir la rama)
-4) git checkout main (volver a la rama principal)
-5) git merge nombreRama (unir la rama con la principal)
-6) git push origin main (subir los cambios)
-7) git branch -d nombreRama (eliminar la rama)
+3) git status (ver el estado de los archivos)
+4) git add . (agregar todos los archivos)
+5) git status (ver el estado de los archivos)
+6) git commit -m "mensaje" (crear un commit)
+7) git push origin nombreRama (subir la rama)
+________________________________________________
+8) git checkout main (volver a la rama principal)
+9) git merge nombreRama (unir la rama con la principal)
+10) git push origin main (subir los cambios)
+11) git branch -d nombreRama (eliminar la rama)
 */
 
 // Actualizar un repositorio
