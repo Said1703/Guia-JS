@@ -18,6 +18,9 @@
 9) git push -u origin main (subir los archivos)
 */
 
+//Borrar lo que hay en la consola
+/* clear */
+
 // Crear una rama en github
 /* 
 1) git branch nombreRama (crear una rama)
