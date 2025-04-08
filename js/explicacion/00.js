@@ -23,7 +23,7 @@
 
 // Crear una rama en github
 /* 
-1) git branch nombreRama (crear una rama)
+1) git checkout -b nombre de la rama (crear y cambiar rama)
 2) git checkout nombreRama (cambiar de rama)
 3) git status (ver el estado de los archivos)
 4) git add . (agregar todos los archivos)
